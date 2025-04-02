@@ -75,19 +75,21 @@
 
 ### 클라우드 아키텍처
 
-![프론트 아키텍처](images/MiniPjt2_Team3_FE.png)
+![Mini Pjt 2 - Team3 - 프론트](https://github.com/user-attachments/assets/633c93b1-895b-483a-850a-82de2553db45)
 
-![백 아키텍처](images/MiniPjt2_Team3_BE.png)
+
+![Mini Pjt 2 - Team3 - 백](https://github.com/user-attachments/assets/2b39d7cd-4278-45ef-8fd1-fde219ac8afe)
+
 
 ## MSA
 
 ### 서비스 구성 및 서비스 간 호출 흐름
 
-![kitcha-msa-2.png](images/kitcha-msa-2.png)
+![msa-kitcha(micro3)](https://github.com/user-attachments/assets/2caeab4a-c6c7-4936-8cfa-5d8b2c56e8a8)
+
 
 ## API 명세서
-
-https://docs.google.com/spreadsheets/d/1iaG9gvqz7Z1Od52EG6-oADBhh2SM0AVqktZF8eIVcoo/edit?usp=sharing
+[스프레드 시트 참고](https://docs.google.com/spreadsheets/d/1iaG9gvqz7Z1Od52EG6-oADBhh2SM0AVqktZF8eIVcoo/edit?usp=sharing)
 
 ## 성능 측정
 
