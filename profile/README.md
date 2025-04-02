@@ -75,15 +75,15 @@
 
 ### 클라우드 아키텍처
 
-![Mini Pjt 2 - Team3 - 프론트.png](attachment:89261fac-c0bd-4e1c-8516-a92636f95d67:Mini_Pjt_2_-_Team3_-_프론트.png)
+![프론트 아키텍처](images/MiniPjt2_Team3_FE.png)
 
-![Mini Pjt 2 - Team3 - 백.png](attachment:b330cfb5-e5d7-4720-8571-a46b2a61f6bd:Mini_Pjt_2_-_Team3_-_백.png)
+![백 아키텍처](images/MiniPjt2_Team3_BE.png)
 
 ## MSA
 
 ### 서비스 구성 및 서비스 간 호출 흐름
 
-![kitcha-msa-2.png](attachment:c8d704ca-3e8f-4a49-9297-6c284dd0219d:kitcha-msa-2.png)
+![kitcha-msa-2.png](images/kitcha-msa-2.png)
 
 ## API 명세서
 
